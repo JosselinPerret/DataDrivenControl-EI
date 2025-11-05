@@ -1,0 +1,9 @@
+# Ignorer les fichiers temporaires
+*.tmp
+*.temp
+
+# ignorer env
+env/
+venv/
+Final/env/
+
